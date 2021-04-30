@@ -1,3 +1,4 @@
+#Specify the file extension that i don't want in 
 *.class
 *.exe
 *.txt
